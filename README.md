@@ -5,8 +5,8 @@ This project is a real-time Order Book application built with React.js, leveragi
 ## Features
 
 - **Real-time Data:** The application establishes a WebSocket connection to the Bitfinex API to fetch and display live order book data.
-- **Order Book Visualization:** Displays bid and ask data in two separate line charts for easy visualization.
-- **Responsive UI:** The layout adjusts to various screen sizes, making it accessible on both desktop and mobile devices.
+- **Order Book Visualization:** Displays bid and ask data in two separate line charts for easy visualization. - WIP
+- **Responsive UI:** The layout adjusts to various screen sizes, making it accessible on both desktop and mobile devices. - WIP
 
 ## Demo
 
